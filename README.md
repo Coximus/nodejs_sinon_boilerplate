@@ -1,1 +1,1 @@
-# nodejs_sinon_boilerplate
+NodeJS with Sinon Boilerplate
